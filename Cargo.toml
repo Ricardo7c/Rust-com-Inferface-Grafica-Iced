@@ -1,0 +1,14 @@
+[workspace]
+members = [
+    "Projeto_01",
+]
+resolver = "2"
+
+[workspace.package]
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+
+[workspace.dependencies]
+# Define a dependência de forma compartilhada para todos os membros
+iced = "0.14"
