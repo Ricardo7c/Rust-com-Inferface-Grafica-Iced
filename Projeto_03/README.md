@@ -84,6 +84,3 @@ Uma janela desktop com layout centralizado onde o texto abaixo reflete, em tempo
 
 🟢 Fácil
 
----
-
-Tente implementar seguindo a mesma estrutura do exercício anterior e envie seu código quando estiver pronto! Se surgir qualquer dúvida sobre a assinatura do `text_input` ou como variantes com dados funcionam no enum, basta perguntar.
